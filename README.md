@@ -2,6 +2,8 @@
 
 :books: MSc Student in Engineering and Computer Science
 
+:white_flower: Data scientist at Istituto Romagnolo per lo Studio dei Tumori "Dino Amadori" 
+
 :purple_heart: Interested in NLP, ML
 
 :mailbox: martina.cavallucci11@gmail.com
